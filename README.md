@@ -72,7 +72,7 @@ For support or inquiries, please contact the project maintainer at [].
 ## 📄 Document Drive
 
 You can find the document templates for this project here:  
-[https://drive.google.com/drive/folders/14FU4Dqr6vrpCYWex5WvJj3fJZkGlpOFW?usp=sharing](https://drive.google.com/drive/folders/14FU4Dqr6vrpCYWex5WvJj3fJZkGlpOFW?usp=sharing)
+[https://drive.google.com/drive/folders/1jf78BFndhu73_SejuoiPbdFqYkt4xlxZ?usp=sharing](https://drive.google.com/drive/folders/1jf78BFndhu73_SejuoiPbdFqYkt4xlxZ?usp=sharing)
 
 
 # Getting Started with Create React App
